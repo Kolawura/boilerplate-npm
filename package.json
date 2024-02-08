@@ -1,7 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Adekola",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"nodemon": "^3.0.3"
 	},
 	"main": "server.js",
 	"scripts": {
