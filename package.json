@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Adekola",
+	"description": "A freeCodeCamp boilerplate",
+	"keywords": ["Adekola","freecodecamp", "boilerplate"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0",
 		"nodemon": "^3.0.3"
